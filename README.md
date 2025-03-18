@@ -1,4 +1,4 @@
-# LSFM-processing
+# LSFM for ADPKD
 Scripts for processing Healthy and pathological kidney Light Sheet Fluorescence Microscopy (LSFM) images. Pathological kidneys affected by Autosomal Dominant Polycistic Kidney Disease (ADPKD). 
 
 Segmentation folder:
